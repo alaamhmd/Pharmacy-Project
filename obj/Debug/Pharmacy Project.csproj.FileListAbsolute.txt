@@ -1,0 +1,54 @@
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.exe.config
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.exe
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.pdb
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csprojResolveAssemblyReference.cache
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form1.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form2.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form3.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form4.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form6.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form7.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Properties.Resources.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csproj.GenerateResource.Cache
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csproj.CoreCompileInputs.cache
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.exe
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.pdb
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form5.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form8.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form9.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form10.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form11.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form12.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form13.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form14.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form15.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form16.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form17.resources
+C:\Users\aa\source\repos\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form18.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.exe.config
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.exe
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\bin\Debug\Pharmacy Project.pdb
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csprojResolveAssemblyReference.cache
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form1.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form10.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form11.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form12.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form13.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form14.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form15.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form16.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form17.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form18.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form2.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form3.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form4.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form5.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form6.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form7.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form8.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Form9.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy_Project.Properties.Resources.resources
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csproj.GenerateResource.cache
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.csproj.CoreCompileInputs.cache
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.exe
+D:\المخروبة\الترم التاني\Pharmacy Project\Pharmacy Project\obj\Debug\Pharmacy Project.pdb
